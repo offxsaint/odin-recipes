@@ -1,1 +1,1 @@
-# odin-recipes
+In this section I will build a website called odin-recipes which will be connected to the "The Odin Project" website I will learn to use basic tags and elements using html to create this project.
